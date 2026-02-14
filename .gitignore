@@ -1,0 +1,28 @@
+# Node
+frontend-vue/node_modules/
+frontend-vue/dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+backend-flask/venv/
+backend-flask/.env
+
+# Java / Maven
+backend-springboot/target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
